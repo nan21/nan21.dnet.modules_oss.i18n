@@ -1,0 +1,41 @@
+Ext.define("net.nan21.dnet.module.sd.order.frame.SalesOrder_UI$Trl", {
+	/* view */
+	atchEditList__ttl: "Ataşamente",
+	itemFilter__ttl: "Filtru",
+	itemTaxList__ttl: "Taxe linie comandă",
+	linesPanel__ttl: "Articole",
+	notesPanel__ttl: "Note",
+	orderEditDetails__ttl: "Detalii",
+	taxList__ttl: "Taxe",
+	wdwGenDelivery__ttl: "Generează livrare",
+	wdwGenInvoice__ttl: "Generează factură",
+	/* menu */
+	tlbItemEdit__ttl: "Articol",
+	tlbItemList__ttl: "Articole",
+	tlbOrderEdit__ttl: "Comandă client",
+	tlbOrderList__ttl: "Comenzi client",
+	tlbTaxList__ttl: "Taxe",
+	/* button */
+	btnConfirmOrder__ttl: "Confirmă",
+	btnConfirmOrder__desc: "Confirmă comandă",
+	btnCreateDelivery__ttl: "Generează livrare",
+	btnCreateDelivery__desc: "Generează livrare",
+	btnCreateDeliveryOk__ttl: "OK",
+	btnCreateDeliveryOk__desc: "Generează livrare",
+	btnCreateInvoice__ttl: "Generează factură",
+	btnCreateInvoice__desc: "Generează factură",
+	btnCreateInvoiceOk__ttl: "OK",
+	btnCreateInvoiceOk__desc: "Generează factura",
+	btnShowDelivery__ttl: "Arată livrare",
+	btnShowDelivery__desc: "Arată avizul de expeditie asociat acestei comenzi.",
+	btnShowInvoice__ttl: "Arată factură",
+	btnShowInvoice__desc: "Arată factura asociată acestei comenzi.",
+	btnUnConfirmOrder__ttl: "De-Confirmă",
+	btnUnConfirmOrder__desc: "De-confirmă comandă",
+	btnUploadAttachment__ttl: "Upload...",
+	btnUploadAttachment__desc: "Upload ataşament",
+	btnViewAttachment__ttl: "Deschide",
+	btnViewAttachment__desc: "Deschide ataşament",
+	
+	title: "Comenzi client"
+});

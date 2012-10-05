@@ -1,0 +1,42 @@
+Ext.define("net.nan21.dnet.module.ad.workflow.frame.WorkflowAdmin_UI$Trl", {
+	/* view */
+	canvasDeployment__ttl: "Deployments",
+	canvasFinishedInstance__ttl: "Finished instances",
+	canvasProcess__ttl: "Processes defined",
+	canvasRunningInstance__ttl: "Running instances",
+	listVars__ttl: "Variables",
+	panelRunningTask__ttl: "Tasks",
+	wdwAssignTask__ttl: "Assign task",
+	/* menu */
+	tlbDeploymentList__ttl: "Deployments",
+	tlbFinishedInstanceList__ttl: "Finished instances",
+	tlbProcessList__ttl: "Processes defined",
+	tlbRunningInstanceList__ttl: "Running instances",
+	/* button */
+	btnCompleteTask__ttl: "Complete task",
+	btnCompleteTask__desc: "Mark selected task as completed.",
+	btnDeleteCascadeDeployment__ttl: "Delete cascade",
+	btnDeleteCascadeDeployment__desc: "Delete selected deployments with dependecies.",
+	btnDeleteDeployment__ttl: "Delete",
+	btnDeleteDeployment__desc: "Delete selected deployments.",
+	btnGetProcessDefinitionDiagram__ttl: "Show diagram",
+	btnGetProcessDefinitionDiagram__desc: "Show diagram for the selected process definition",
+	btnGetProcessDefinitionXml__ttl: "Show XML",
+	btnGetProcessDefinitionXml__desc: "Show xml for the selected process definition",
+	btnGetProcessInstanceDiagram__ttl: "Show diagram",
+	btnGetProcessInstanceDiagram__desc: "Show diagram for the selected process instance",
+	btnGetProcessInstanceXml__ttl: "Show XML",
+	btnGetProcessInstanceXml__desc: "Show xml for the selected process.",
+	btnKillProcessInstance__ttl: "Kill Instance",
+	btnKillProcessInstance__desc: "Kill the selected process instance",
+	btnOpenAsignTaskWindow__ttl: "Assign task",
+	btnOpenAsignTaskWindow__desc: "(Re-)Assign the selected task.",
+	btnSaveAssignTask__ttl: "Save",
+	btnSaveAssignTask__desc: "Save assignement. Leave field empty to un-assign it.",
+	btnStartProcess__ttl: "Start Instance",
+	btnStartProcess__desc: "Start an instance of the selected process",
+	btnUploadForDeployment__ttl: "Upload...",
+	btnUploadForDeployment__desc: "Upload process definition archive to be deployed.",
+	
+	title: "Workflow management"
+});

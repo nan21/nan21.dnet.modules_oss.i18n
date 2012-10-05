@@ -1,0 +1,41 @@
+Ext.define("net.nan21.dnet.module.sd.order.frame.SalesOrder_UI$Trl", {
+	/* view */
+	atchEditList__ttl: "Attachments",
+	itemFilter__ttl: "Filter",
+	itemTaxList__ttl: "Item taxes",
+	linesPanel__ttl: "Items",
+	notesPanel__ttl: "Notes",
+	orderEditDetails__ttl: "Details",
+	taxList__ttl: "Taxes",
+	wdwGenDelivery__ttl: "Generate delivery",
+	wdwGenInvoice__ttl: "Generate invoice",
+	/* menu */
+	tlbItemEdit__ttl: "Item",
+	tlbItemList__ttl: "Items",
+	tlbOrderEdit__ttl: "Sales order",
+	tlbOrderList__ttl: "Sales orders",
+	tlbTaxList__ttl: "Taxes",
+	/* button */
+	btnConfirmOrder__ttl: "Confirm",
+	btnConfirmOrder__desc: "Confirm order.",
+	btnCreateDelivery__ttl: "Generate Delivery",
+	btnCreateDelivery__desc: "Generate Delivery",
+	btnCreateDeliveryOk__ttl: "OK",
+	btnCreateDeliveryOk__desc: "Generate Delivery",
+	btnCreateInvoice__ttl: "Generate Invoice",
+	btnCreateInvoice__desc: "Generate Invoice",
+	btnCreateInvoiceOk__ttl: "OK",
+	btnCreateInvoiceOk__desc: "Generate Invoice",
+	btnShowDelivery__ttl: "Show delivery",
+	btnShowDelivery__desc: "Show the delivery note linked to this sales order",
+	btnShowInvoice__ttl: "Show Invoice",
+	btnShowInvoice__desc: "Show the invoice linked to this sales order",
+	btnUnConfirmOrder__ttl: "Un-Confirm",
+	btnUnConfirmOrder__desc: "Un-Confirm order.",
+	btnUploadAttachment__ttl: "Upload...",
+	btnUploadAttachment__desc: "Upload attachment file.",
+	btnViewAttachment__ttl: "View",
+	btnViewAttachment__desc: "View the selected attachment",
+	
+	title: "Sales orders"
+});

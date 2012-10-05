@@ -1,0 +1,42 @@
+Ext.define("net.nan21.dnet.module.ad.workflow.frame.WorkflowAdmin_UI$Trl", {
+	/* view */
+	canvasDeployment__ttl: "Instalări",
+	canvasFinishedInstance__ttl: "Instanţe finalizate",
+	canvasProcess__ttl: "Procese definite",
+	canvasRunningInstance__ttl: "Instanţe active",
+	listVars__ttl: "Variabile",
+	panelRunningTask__ttl: "Activităţi",
+	wdwAssignTask__ttl: "Alocă",
+	/* menu */
+	tlbDeploymentList__ttl: "Instalări",
+	tlbFinishedInstanceList__ttl: "Instanţe finalizate",
+	tlbProcessList__ttl: "Procese definite",
+	tlbRunningInstanceList__ttl: "Instanţe active",
+	/* button */
+	btnCompleteTask__ttl: "Finalizează",
+	btnCompleteTask__desc: "Finalizează activitatea selectată",
+	btnDeleteCascadeDeployment__ttl: "Şterge cascadat",
+	btnDeleteCascadeDeployment__desc: "Şterge instalarea selectată cu toate dependinţele ",
+	btnDeleteDeployment__ttl: "Şterge",
+	btnDeleteDeployment__desc: "Şterge instalarea selectată",
+	btnGetProcessDefinitionDiagram__ttl: "Diagramă",
+	btnGetProcessDefinitionDiagram__desc: "Deschide diagrama procesului selectat",
+	btnGetProcessDefinitionXml__ttl: "Fişier XML",
+	btnGetProcessDefinitionXml__desc: "Deschide fişierul xml al procesului selectat",
+	btnGetProcessInstanceDiagram__ttl: "Diagramă",
+	btnGetProcessInstanceDiagram__desc: "Deschide diagrama instanţei selectate",
+	btnGetProcessInstanceXml__ttl: "Fişier XML",
+	btnGetProcessInstanceXml__desc: "Deschide fişierul xml al procesului selectat",
+	btnKillProcessInstance__ttl: "Opreşte instanţa",
+	btnKillProcessInstance__desc: "Opreşte instanţa selectată",
+	btnOpenAsignTaskWindow__ttl: "Alocă",
+	btnOpenAsignTaskWindow__desc: "(Re)Alocă activitatea selectată",
+	btnSaveAssignTask__ttl: "Salvează",
+	btnSaveAssignTask__desc: "Salvează alocarea. Lasă câmpul gol pentru de-alocare",
+	btnStartProcess__ttl: "Porneşte instanţă",
+	btnStartProcess__desc: "Porneşte instanţă pentru procesul selectat",
+	btnUploadForDeployment__ttl: "Upload...",
+	btnUploadForDeployment__desc: "Upload arhiva pentru instalare",
+	
+	title: "Administrare workflow"
+});
