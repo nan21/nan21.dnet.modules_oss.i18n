@@ -1,8 +1,9 @@
 Ext.define("net.nan21.dnet.module.md.bp.ds.model.BpAccountDs$Trl", {
 	
 	analiticSegment__lbl: "Segment analitic",
+	businessPartnerCode__lbl: "Cod tert",
 	businessPartnerId__lbl: "Terţ(ID)",
-	businessPartner__lbl: "Terţ",
+	businessPartnerName__lbl: "Denumire tert",
 	custAnaliticSegment__lbl: "Segm. analit. client",
 	customerCreditLimit__lbl: "Limită credit c.",
 	customerGroupId__lbl: "Grup client(ID)",
