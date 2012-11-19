@@ -4,14 +4,14 @@ Ext.define("net.nan21.dnet.module.sd.account.frame.CustomerAccount_UI$Trl", {
 	orderList__ttl: "Comenzi client",
 	payAmountList__ttl: "Solduri stinse",
 	paymentList__ttl: "Incasari",
-	txAmountList__ttl: "Solduri",
+	txAmountList__ttl: "Solduri de încasat",
 	/* menu */
 	tlbAccountEdit__ttl: "Cont client",
 	tlbAccountList__ttl: "Conturi client",
 	tlbInvoicesList__ttl: "Facturi emise",
 	tlbOrdersList__ttl: "Comenzi client",
 	tlbPaymentsList__ttl: "Incasari",
-	tlbTxAmountsList__ttl: "Solduri",
+	tlbTxAmountsList__ttl: "Solduri de încasat",
 	/* button */
 	btnShowInvoice__ttl: "Arată factură",
 	btnShowInvoice__desc: "",
@@ -19,7 +19,7 @@ Ext.define("net.nan21.dnet.module.sd.account.frame.CustomerAccount_UI$Trl", {
 	btnShowInvoice2__desc: "",
 	btnShowOrder__ttl: "Arată comandă",
 	btnShowOrder__desc: "",
-	btnShowPayment__ttl: "Arată incasare",
+	btnShowPayment__ttl: "Arată încasare",
 	btnShowPayment__desc: "",
 	
 	title: "Conturi client"

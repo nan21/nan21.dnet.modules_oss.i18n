@@ -2,7 +2,7 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.PaymentIn_UI$Trl", {
 	/* view */
 	accDocLineFilter__ttl: "Filter",
 	accDocPanel__ttl: "Accounting",
-	amountList__ttl: "Amounts",
+	amountList__ttl: "Payed amounts",
 	wdwProposal__ttl: "Payment details",
 	/* menu */
 	tlbAccDocLineList__ttl: "Accounting",

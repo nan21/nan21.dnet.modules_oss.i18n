@@ -12,7 +12,7 @@ Ext.define("net.nan21.dnet.module.sc.invoice.frame.PurchaseInvoice_UI$Trl", {
 	taxList__ttl: "Taxe",
 	/* menu */
 	tlbAccDocLineList__ttl: "Contabilitate",
-	tlbAmountList__ttl: "Solduri",
+	tlbAmountList__ttl: "Solduri de plătit",
 	tlbInvEdit__ttl: "Factură furnizor",
 	tlbInvList__ttl: "Facturi furnizor",
 	tlbItemEdit__ttl: "Articol",

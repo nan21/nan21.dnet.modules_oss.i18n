@@ -12,6 +12,7 @@ Ext.define("net.nan21.dnet.module.sc.invoice.ds.model.PaymentOutDs$Trl", {
 	docNo__lbl: "Nr doc",
 	fromAccountId__lbl: "Din cont(ID)",
 	fromAccount__lbl: "Din cont",
+	generated__lbl: "Generat",
 	orgId__lbl: "Platitor(ID)",
 	org__lbl: "Platitor",
 	paymentMethodId__lbl: "Mod plată(ID)",

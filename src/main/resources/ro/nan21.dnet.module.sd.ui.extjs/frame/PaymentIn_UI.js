@@ -2,7 +2,7 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.PaymentIn_UI$Trl", {
 	/* view */
 	accDocLineFilter__ttl: "Filtru",
 	accDocPanel__ttl: "Contabilitate",
-	amountList__ttl: "Solduri",
+	amountList__ttl: "Solduri plătite",
 	wdwProposal__ttl: "Detalii plată",
 	/* menu */
 	tlbAccDocLineList__ttl: "Contabilitate",
