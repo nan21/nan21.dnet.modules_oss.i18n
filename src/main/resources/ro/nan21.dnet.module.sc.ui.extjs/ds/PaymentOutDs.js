@@ -1,6 +1,9 @@
 Ext.define("net.nan21.dnet.module.sc.invoice.ds.model.PaymentOutDs$Trl", {
 	
 	amount__lbl: "Valoare",
+	bpartnerCode__lbl: "Terţ",
+	bpartnerId__lbl: "Terţ(ID)",
+	bpartner__lbl: "Terţ",
 	code__lbl: "Cod",
 	confirmed__lbl: "Confirmat",
 	currencyId__lbl: "Monedă(ID)",
@@ -11,9 +14,6 @@ Ext.define("net.nan21.dnet.module.sc.invoice.ds.model.PaymentOutDs$Trl", {
 	fromAccount__lbl: "Din cont",
 	orgId__lbl: "Platitor(ID)",
 	org__lbl: "Platitor",
-	payToCode__lbl: "Terţ",
-	payToId__lbl: "Terţ(ID)",
-	payTo__lbl: "Terţ",
 	paymentMethodId__lbl: "Mod plată(ID)",
 	paymentMethodType__lbl: "Tip",
 	paymentMethod__lbl: "Mod plată",

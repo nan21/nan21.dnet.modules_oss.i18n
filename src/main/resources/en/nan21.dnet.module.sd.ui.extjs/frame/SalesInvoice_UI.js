@@ -2,7 +2,7 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	/* view */
 	accDocLineFilter__ttl: "Filter",
 	accDocPanel__ttl: "Accounting",
-	amountList__ttl: "Payment schedule",
+	amountsPanel__ttl: "Payment info",
 	atchEditList__ttl: "Attachments",
 	invEditDetails__ttl: "Details",
 	itemFilter__ttl: "Filter",
@@ -12,11 +12,12 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	taxList__ttl: "Taxes",
 	/* menu */
 	tlbAccDocLineList__ttl: "Accounting",
-	tlbAmountList__ttl: "Payment schedule",
+	tlbAmountList__ttl: "Due amounts",
 	tlbInvEdit__ttl: "Sales invoice",
 	tlbInvList__ttl: "Sales invoices",
 	tlbItemEdit__ttl: "Item",
 	tlbItemList__ttl: "Items",
+	tlbPayedAmountList__ttl: "Payments",
 	tlbTaxList__ttl: "Taxes",
 	/* button */
 	btnConfirmInvoice__ttl: "Confirm",
@@ -25,6 +26,8 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	btnPostInvoice__desc: "Post invoice to accounting.",
 	btnShowOrder__ttl: "Show Order",
 	btnShowOrder__desc: "Show the sales order linked to this invoice",
+	btnShowPayment__ttl: "Show payment document",
+	btnShowPayment__desc: "Show the payment document",
 	btnUnConfirmInvoice__ttl: "Un-Confirm",
 	btnUnConfirmInvoice__desc: "Un-Confirm invoice.",
 	btnUnPostInvoice__ttl: "Un-Post",

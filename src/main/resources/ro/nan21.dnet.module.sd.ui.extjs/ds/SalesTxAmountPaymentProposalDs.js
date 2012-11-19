@@ -1,0 +1,26 @@
+Ext.define("net.nan21.dnet.module.sd.invoice.ds.model.SalesTxAmountPaymentProposalDs$Trl", {
+	
+	bpartnerId__lbl: "Tert(ID)",
+	businessPartner__lbl: "Plătitor",
+	currency__lbl: "Monedă",
+	currentPayment__lbl: "Valoare",
+	dueAmount__lbl: "Valoare",
+	dueDate__lbl: "Due Date",
+	invoiceCode__lbl: "",
+	invoiceDocDate__lbl: "Dată doc.",
+	invoiceDocNo__lbl: "Nr doc",
+	invoiceId__lbl: "null(ID)",
+	orderCode__lbl: "",
+	orderDocDate__lbl: "Dată doc.",
+	orderDocNo__lbl: "Nr doc",
+	orderId__lbl: "null(ID)",
+	orgId__lbl: "Organizatie(ID)",
+	outstandingAmount__lbl: "Valoare",
+	payedAmount__lbl: "Valoare",
+	paymentId__lbl: "",
+	paymentMethodId__lbl: "null(ID)",
+	paymentMethod__lbl: "",
+	receivedAmount__lbl: "Suma plătită",
+	remainingAmount__lbl: "Valoare",
+	unAllocatedAmount__lbl: "Suma nealocată"
+});

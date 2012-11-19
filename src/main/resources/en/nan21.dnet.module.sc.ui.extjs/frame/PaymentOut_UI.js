@@ -3,15 +3,13 @@ Ext.define("net.nan21.dnet.module.sc.invoice.frame.PaymentOut_UI$Trl", {
 	accDocLineFilter__ttl: "Filter",
 	accDocPanel__ttl: "Accounting",
 	amountList__ttl: "Amounts",
-	itemList__ttl: "G/L Items",
-	prodList__ttl: "Items",
+	wdwProposal__ttl: "Payment details",
 	/* menu */
 	tlbAccDocLineList__ttl: "Accounting",
 	tlbAmountList__ttl: "Amounts",
-	tlbItemList__ttl: "G/L Items",
 	tlbPaymentEdit__ttl: "Payment Out",
 	tlbPaymentList__ttl: "Payments Out",
-	tlbProdList__ttl: "Items",
+	tlbProposalFilter__ttl: "Due amounts",
 	/* button */
 	btnConfirm__ttl: "Confirm",
 	btnConfirm__desc: "Confirm payment.",
