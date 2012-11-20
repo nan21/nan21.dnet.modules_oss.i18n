@@ -1,9 +1,12 @@
 Ext.define("net.nan21.dnet.module.sd.account.frame.CustomerAccount_UI$Trl", {
 	/* view */
-	invoiceList__ttl: "Facturi emise",
-	orderList__ttl: "Comenzi client",
+	invoiceFilter__ttl: "Filtru",
+	invoicePanel__ttl: "Facturi emise",
+	orderFilter__ttl: "Filtru",
+	orderPanel__ttl: "Comenzi client",
 	payAmountList__ttl: "Solduri stinse",
-	paymentList__ttl: "Incasari",
+	paymentFilter__ttl: "Filtru",
+	paymentPanel__ttl: "Incasari",
 	txAmountList__ttl: "Solduri de încasat",
 	/* menu */
 	tlbAccountEdit__ttl: "Cont client",

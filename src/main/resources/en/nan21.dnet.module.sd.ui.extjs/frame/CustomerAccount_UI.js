@@ -1,9 +1,12 @@
 Ext.define("net.nan21.dnet.module.sd.account.frame.CustomerAccount_UI$Trl", {
 	/* view */
-	invoiceList__ttl: "Invoices",
-	orderList__ttl: "Sales orders",
+	invoiceFilter__ttl: "Filter",
+	invoicePanel__ttl: "Invoices",
+	orderFilter__ttl: "Filter",
+	orderPanel__ttl: "Sales orders",
 	payAmountList__ttl: "Payment distribution",
-	paymentList__ttl: "Payments",
+	paymentFilter__ttl: "Filter",
+	paymentPanel__ttl: "Payments",
 	txAmountList__ttl: "Receivables",
 	/* menu */
 	tlbAccountEdit__ttl: "Customer account",
