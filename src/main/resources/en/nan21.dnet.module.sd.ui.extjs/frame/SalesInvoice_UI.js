@@ -10,6 +10,7 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	linesPanel__ttl: "Items",
 	notesPanel__ttl: "Notes",
 	taxList__ttl: "Taxes",
+	wdwCopyLines__ttl: "Copy lines from invoice",
 	/* menu */
 	tlbAccDocLineList__ttl: "Accounting",
 	tlbAmountList__ttl: "Receivables",
@@ -22,8 +23,12 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	/* button */
 	btnConfirmInvoice__ttl: "Confirm",
 	btnConfirmInvoice__desc: "Confirm invoice.",
+	btnDoCopyLines__ttl: "Execute",
+	btnDoCopyLines__desc: "",
 	btnPostInvoice__ttl: "Post",
 	btnPostInvoice__desc: "Post invoice to accounting.",
+	btnShowCopyLines__ttl: "Copy lines",
+	btnShowCopyLines__desc: "Copy lines from invoice",
 	btnShowOrder__ttl: "Show Order",
 	btnShowOrder__desc: "Show the sales order linked to this invoice",
 	btnShowPayment__ttl: "Show payment document",

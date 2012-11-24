@@ -7,6 +7,7 @@ Ext.define("net.nan21.dnet.module.sd.order.frame.SalesOrder_UI$Trl", {
 	notesPanel__ttl: "Notes",
 	orderEditDetails__ttl: "Details",
 	taxList__ttl: "Taxes",
+	wdwCopyLines__ttl: "Copy lines from order",
 	wdwGenDelivery__ttl: "Generate delivery",
 	wdwGenInvoice__ttl: "Generate invoice",
 	/* menu */
@@ -26,6 +27,10 @@ Ext.define("net.nan21.dnet.module.sd.order.frame.SalesOrder_UI$Trl", {
 	btnCreateInvoice__desc: "Generate Invoice",
 	btnCreateInvoiceOk__ttl: "OK",
 	btnCreateInvoiceOk__desc: "Generate Invoice",
+	btnDoCopyLines__ttl: "Execute",
+	btnDoCopyLines__desc: "",
+	btnShowCopyLines__ttl: "Copy lines",
+	btnShowCopyLines__desc: "Copy lines from order",
 	btnShowDelivery__ttl: "Show delivery",
 	btnShowDelivery__desc: "Show the delivery note linked to this sales order",
 	btnShowInvoice__ttl: "Show Invoice",

@@ -14,6 +14,8 @@ Ext.define("net.nan21.dnet.module.sd.order.ds.model.SalesOrderDs$Trl", {
 	className__lbl: "Class Name",
 	code__lbl: "Cod",
 	confirmed__lbl: "Confirmat",
+	copyFromId__lbl: "Copiaza din  (ID)",
+	copyFrom__lbl: "Copiaza din ",
 	currencyId__lbl: "Monedă(ID)",
 	currency__lbl: "Monedă",
 	customerCode__lbl: "Terţ",

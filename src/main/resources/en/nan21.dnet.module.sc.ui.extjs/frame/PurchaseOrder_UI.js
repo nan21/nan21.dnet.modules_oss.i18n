@@ -6,6 +6,7 @@ Ext.define("net.nan21.dnet.module.sc.order.frame.PurchaseOrder_UI$Trl", {
 	linesPanel__ttl: "Items",
 	notesPanel__ttl: "Notes",
 	orderEditDetails__ttl: "Details",
+	wdwCopyLines__ttl: "Copy lines from order",
 	/* menu */
 	tlbItemEdit__ttl: "Item",
 	tlbItemList__ttl: "Items",
@@ -14,6 +15,10 @@ Ext.define("net.nan21.dnet.module.sc.order.frame.PurchaseOrder_UI$Trl", {
 	/* button */
 	btnConfirm__ttl: "Confirm",
 	btnConfirm__desc: "Confirm order.",
+	btnDoCopyLines__ttl: "Execute",
+	btnDoCopyLines__desc: "",
+	btnShowCopyLines__ttl: "Copy lines",
+	btnShowCopyLines__desc: "Copy lines from order",
 	btnUnConfirm__ttl: "Un-Confirm",
 	btnUnConfirm__desc: "Un-Confirm order.",
 	btnUploadAttachment__ttl: "Upload...",

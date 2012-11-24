@@ -7,6 +7,7 @@ Ext.define("net.nan21.dnet.module.sd.order.frame.SalesOrder_UI$Trl", {
 	notesPanel__ttl: "Note",
 	orderEditDetails__ttl: "Detalii",
 	taxList__ttl: "Taxe",
+	wdwCopyLines__ttl: "Copiaza linii din comanda",
 	wdwGenDelivery__ttl: "Generează livrare",
 	wdwGenInvoice__ttl: "Generează factură",
 	/* menu */
@@ -26,6 +27,10 @@ Ext.define("net.nan21.dnet.module.sd.order.frame.SalesOrder_UI$Trl", {
 	btnCreateInvoice__desc: "Generează factură",
 	btnCreateInvoiceOk__ttl: "OK",
 	btnCreateInvoiceOk__desc: "Generează factura",
+	btnDoCopyLines__ttl: "Execută",
+	btnDoCopyLines__desc: "",
+	btnShowCopyLines__ttl: "Copiază linii",
+	btnShowCopyLines__desc: "Copiază linii din comandă",
 	btnShowDelivery__ttl: "Arată livrare",
 	btnShowDelivery__desc: "Arată avizul de expeditie asociat acestei comenzi.",
 	btnShowInvoice__ttl: "Arată factură",

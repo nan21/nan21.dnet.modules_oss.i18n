@@ -10,6 +10,7 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	linesPanel__ttl: "Articole",
 	notesPanel__ttl: "Note",
 	taxList__ttl: "Taxe",
+	wdwCopyLines__ttl: "Copiaza linii din factura",
 	/* menu */
 	tlbAccDocLineList__ttl: "Contabilitate",
 	tlbAmountList__ttl: "Solduri de încasat",
@@ -22,8 +23,12 @@ Ext.define("net.nan21.dnet.module.sd.invoice.frame.SalesInvoice_UI$Trl", {
 	/* button */
 	btnConfirmInvoice__ttl: "Confirmă",
 	btnConfirmInvoice__desc: "Confirmă factură",
+	btnDoCopyLines__ttl: "Execută",
+	btnDoCopyLines__desc: "",
 	btnPostInvoice__ttl: "Inregistrează",
 	btnPostInvoice__desc: "Inregistrează factură in contabilitate",
+	btnShowCopyLines__ttl: "Copiază linii",
+	btnShowCopyLines__desc: "Copiază linii din factură",
 	btnShowOrder__ttl: "Arată comanda",
 	btnShowOrder__desc: "Arată comanda client asociată acestei facturi.",
 	btnShowPayment__ttl: "Arată document incasare",
