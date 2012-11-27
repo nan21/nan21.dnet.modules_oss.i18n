@@ -1,6 +1,8 @@
 Ext.define("net.nan21.dnet.module.sc.invoice.ds.model.PurchaseTxAmountDs$Trl", {
 	
 	bpartnerId__lbl: "Bpartner(ID)",
+	currencyId__lbl: "Currency(ID)",
+	currency__lbl: "Currency",
 	dueAmount__lbl: "Due Amount",
 	dueDate__lbl: "Due Date",
 	invoiceCode__lbl: "Invoice Code",

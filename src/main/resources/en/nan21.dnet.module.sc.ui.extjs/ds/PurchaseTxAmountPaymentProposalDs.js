@@ -2,6 +2,7 @@ Ext.define("net.nan21.dnet.module.sc.invoice.ds.model.PurchaseTxAmountPaymentPro
 	
 	bpartnerId__lbl: "Bpartner(ID)",
 	businessPartner__lbl: "Payed to",
+	currencyId__lbl: "Currency(ID)",
 	currency__lbl: "Currency",
 	currentPayment__lbl: "Current Payment",
 	dueAmount__lbl: "Due Amount",
@@ -17,6 +18,7 @@ Ext.define("net.nan21.dnet.module.sc.invoice.ds.model.PurchaseTxAmountPaymentPro
 	orgId__lbl: "Org(ID)",
 	outstandingAmount__lbl: "Outstanding Amount",
 	payedAmount__lbl: "Payed Amount",
+	paymentCurrency__lbl: "Currency",
 	paymentId__lbl: "",
 	paymentMethodId__lbl: "Payment Method(ID)",
 	paymentMethod__lbl: "Payment Method",

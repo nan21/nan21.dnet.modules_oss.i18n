@@ -2,7 +2,8 @@ Ext.define("net.nan21.dnet.module.sd.invoice.ds.model.SalesTxAmountPaymentPropos
 	
 	bpartnerId__lbl: "Tert(ID)",
 	businessPartner__lbl: "Plătitor",
-	currency__lbl: "Monedă",
+	currencyId__lbl: "null(ID)",
+	currency__lbl: "",
 	currentPayment__lbl: "Valoare",
 	dueAmount__lbl: "Valoare",
 	dueDate__lbl: "Due Date",
@@ -17,6 +18,7 @@ Ext.define("net.nan21.dnet.module.sd.invoice.ds.model.SalesTxAmountPaymentPropos
 	orgId__lbl: "Organizatie(ID)",
 	outstandingAmount__lbl: "Valoare",
 	payedAmount__lbl: "Valoare",
+	paymentCurrency__lbl: "Monedă",
 	paymentId__lbl: "",
 	paymentMethodId__lbl: "null(ID)",
 	paymentMethod__lbl: "",
