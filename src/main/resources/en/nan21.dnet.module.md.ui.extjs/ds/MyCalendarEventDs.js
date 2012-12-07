@@ -5,7 +5,6 @@ Ext.define("net.nan21.dnet.module.md.activity.ds.model.MyCalendarEventDs$Trl", {
 	bpartnerId__lbl: "Business partner(ID)",
 	contactId__lbl: "Contact(ID)",
 	contact__lbl: "Contact",
-	createdBy__lbl: "Created By",
 	dueDate__lbl: "Due Date",
 	endDate__lbl: "End Date",
 	eventType__lbl: "Type",

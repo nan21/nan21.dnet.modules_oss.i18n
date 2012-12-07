@@ -5,7 +5,6 @@ Ext.define("net.nan21.dnet.module.md.activity.ds.model.MyCalendarEventDs$Trl", {
 	bpartnerId__lbl: "Terţ(ID)",
 	contactId__lbl: "Contact(ID)",
 	contact__lbl: "Contact",
-	createdBy__lbl: "Created By",
 	dueDate__lbl: "Planificat la",
 	endDate__lbl: "Până la",
 	eventType__lbl: "Tip",

@@ -5,7 +5,6 @@ Ext.define("net.nan21.dnet.module.md.activity.ds.model.MyCalendarTaskDs$Trl", {
 	bpartnerId__lbl: "Bpartner(ID)",
 	contactId__lbl: "Contact(ID)",
 	contactName__lbl: "Contact Name",
-	createdBy__lbl: "Created By",
 	dueDate__lbl: "Due Date",
 	endDate__lbl: "End Date",
 	eventType__lbl: "Type",
