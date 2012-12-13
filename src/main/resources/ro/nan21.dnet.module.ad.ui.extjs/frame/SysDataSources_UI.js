@@ -5,6 +5,8 @@ Ext.define("net.nan21.dnet.module.ad.system.frame.SysDataSources_UI$Trl", {
 	/* menu */
 	tlbMList__ttl: "Data-sources",
 	/* button */
+	btnInfo__ttl: "Arata info",
+	btnInfo__desc: "Arată mai multe informatii ",
 	btnSynchronize__ttl: "Sincronizează",
 	btnSynchronize__desc: "Sincronizează catalogul cu instanţele instalate in aplicaţie  ",
 	
