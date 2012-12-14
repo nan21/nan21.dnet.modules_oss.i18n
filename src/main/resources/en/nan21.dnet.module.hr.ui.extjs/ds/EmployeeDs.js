@@ -18,6 +18,8 @@ Ext.define("net.nan21.dnet.module.hr.employee.ds.model.EmployeeDs$Trl", {
 	middleName__lbl: "Middle Name",
 	officeEmail__lbl: "Office Email",
 	passportNo__lbl: "Passport No",
+	photoLocation__lbl: "Photo Location",
+	photoUrl__lbl: "Photo Url",
 	sinNo__lbl: "Sin No",
 	ssnNo__lbl: "Ssn No"
 });
