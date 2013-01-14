@@ -8,6 +8,8 @@ Ext.define("net.nan21.dnet.module.ad.client.ds.model.ClientDs$Trl", {
 	defaultDsAccessRule__lbl: "Default Ds Access Rule",
 	defaultExportPath__lbl: "Cale export",
 	defaultImportPath__lbl: "Cale import",
+	importJobId__lbl: "Import job ID",
+	importJob__lbl: "Initializare",
 	maintenanceLanguage__lbl: "Limbă",
 	name__lbl: "Name",
 	notes__lbl: "Observaţii",
